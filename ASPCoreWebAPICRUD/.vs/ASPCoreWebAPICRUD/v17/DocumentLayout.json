@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\aspcore_web_studentsportal\\aspcorewebapicrud\\aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\aspcore_web_studentsportal\\aspcorewebapicrud\\aspcorewebapicrud\\models\\studentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\models\\studentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\aspcore_web_studentsportal\\aspcorewebapicrud\\aspcorewebapicrud\\models\\demo_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\models\\demo_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\aspcore_web_studentsportal\\aspcorewebapicrud\\aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\aspcore_web_studentsportal\\aspcorewebapicrud\\aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\aspcore_web_studentsportal\\aspcorewebapicrud\\aspcorewebapicrud\\aspcorewebapicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3EB6D2F-EB5E-4089-B711-D655441149A2}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\aspcorewebapicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:18:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Program.cs",
+              "ToolTip": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Program.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:38:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\appsettings.json",
+              "ToolTip": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\appsettings.json",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T14:25:33.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsTable.cs",
+              "DocumentMoniker": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\StudentsTable.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Models\\StudentsTable.cs",
+              "ToolTip": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\StudentsTable.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Models\\StudentsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:19:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo_dbContext.cs",
+              "DocumentMoniker": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\Demo_dbContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Models\\Demo_dbContext.cs",
+              "ToolTip": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\Demo_dbContext.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Models\\Demo_dbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:14:58.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ASPCoreWebAPICRUD.csproj",
+              "DocumentMoniker": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "ToolTip": "E:\\ASPCore_Web_StudentsPortal\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T10:52:47.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
